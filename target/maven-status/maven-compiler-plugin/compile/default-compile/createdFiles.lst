@@ -1,0 +1,11 @@
+utils\Property.class
+Example\NewTest.class
+pages\SearchResultPage.class
+core\TestCore.class
+pages\ProductDetailsPage.class
+Example\Test003_ProductValidation.class
+pages\HomePage.class
+pages\SignInPage.class
+utils\CommonDrivers.class
+pages\AddTocartPage.class
+utils\Browsers.class
